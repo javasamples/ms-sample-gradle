@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms-samle-gradle
+    name: ms-sample-gradle
   profiles:
     active: dev
   cloud:
